@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Baslique\Documents\CVALTERNANCECERGY\Robot_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Baslique\Documents\CVALTERNANCECERGY\Robot_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Baslique\Documents\CVALTERNANCECERGY\Robot_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Baslique\Documents\CVALTERNANCECERGY\Robot_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Baslique\Documents\CVALTERNANCECERGY\Robot_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Baslique\Documents\CVALTERNANCECERGY\Robot_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Baslique\Documents\CVALTERNANCECERGY\Robot_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Baslique\Documents\CVALTERNANCECERGY\Robot_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.116 seconds
+Platform assembly: C:\Users\Baslique\Documents\CVALTERNANCECERGY\Robot_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Baslique\Documents\CVALTERNANCECERGY\Robot_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.952312 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 39d0 -> priority: 1 
+  Thread -> id: 3aec -> priority: 1 
+  Thread -> id: 3510 -> priority: 1 
+  Thread -> id: 396c -> priority: 1 
+The referenced script on this Behaviour (Game Object 'exterieur2 (7)') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.319239 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3905.
+Total: 1.463323 ms (FindLiveObjects: 0.193193 ms CreateObjectMapping: 0.036988 ms MarkObjects: 0.641039 ms  DeleteObjects: 0.590963 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.464232 ms
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 289.
+Total: 1.656517 ms (FindLiveObjects: 0.034427 ms CreateObjectMapping: 0.013941 ms MarkObjects: 0.134012 ms  DeleteObjects: 1.473851 ms)
+
